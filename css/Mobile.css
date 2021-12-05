@@ -1,0 +1,11 @@
+@media screen and (max-width:678px){
+
+    .markdown-section pre{
+      padding:0 2px;
+    }
+    .markdown-section{
+      padding:0 !important;
+      max-width:88% !important;
+    }
+
+}
